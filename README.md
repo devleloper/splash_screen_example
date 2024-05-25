@@ -1,16 +1,4 @@
-# splash_screen_example
+# Splash Screen Example
 
-A new Flutter project.
+![image](https://github.com/devleloper/splash_screen_example/assets/157947350/68c2b07b-affc-4d8e-b1f6-b84ebd3aaea4)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
