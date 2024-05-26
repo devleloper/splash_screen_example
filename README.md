@@ -9,6 +9,16 @@
 
 - [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
 
+## Splash Screen Configuration
+
+If you create a new external configuration file (flutter_native_splash.yaml), use this command to apply the changes:
+
+```dart run flutter_native_splash:create --path=flutter_native_splash.yaml```
+
+If you make changes directly in the main pubspec.yaml file, use this command:
+
+```dart run flutter_native_splash:create```
+
 ## Figma Design
 
 The design and dimensions for creating the splash screen elements can be found in the Figma project:
