@@ -5,7 +5,7 @@
   <img src="https://github.com/devleloper/splash_screen_example/assets/157947350/cdddc8a8-b54d-43e0-b86b-93515da678e1" alt="Dark Mode" style="width: 45%;"/>
 </div>
 
-Main Libraries Used
+## Main Libraries Used
 
 - [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
 
