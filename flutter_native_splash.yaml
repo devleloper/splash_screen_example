@@ -1,0 +1,26 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: true
+
+  # Light (Usual) Mode
+  color: "F0F0F0"
+  image: "assets/images/splash_screen/logo_light.png"
+  branding: "assets/images/splash_screen/branding_light.png"
+  
+  # Dark Mode
+  color_dark: "#252525"
+  image_dark: "assets/images/splash_screen/logo_dark.png"
+  branding_dark: "assets/images/splash_screen/branding_dark.png"
+  
+
+
+  # To position the branding image at the bottom of the screen you can use bottom, bottomRight,
+  # and bottomLeft. The default values is bottom if not specified or specified something else.
+  #branding_mode: bottom
+  
+  android_12:
+    color: "#FFFFFF"
+    image: "assets/images/splash_screen/logo_light.png"
+    branding: "assets/images/splash_screen/branding_light.png"
+

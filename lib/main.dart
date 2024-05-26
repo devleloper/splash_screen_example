@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 
 void main() {
@@ -31,7 +32,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  // Making the pausing
+  // Let's take a break
   @override
   void initState() {
     super.initState();
