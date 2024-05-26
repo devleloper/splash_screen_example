@@ -7,11 +7,11 @@
 
 Main Libraries Used
 
-- (flutter_native_splash)[https://pub.dev/packages/flutter_native_splash]
+- [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
 
 ## Figma Design
 
 The design and dimensions for creating the splash screen elements can be found in the Figma project:
 
-- (Link)[https://www.figma.com/design/GgFGvUEEJKeV1ZLx4MUYr9/Splash-Screen-Example?node-id=0-1&t=6WbtlczJfY0mRaQz-1]
+- [Link](https://www.figma.com/design/GgFGvUEEJKeV1ZLx4MUYr9/Splash-Screen-Example?node-id=0-1&t=6WbtlczJfY0mRaQz-1)
 
